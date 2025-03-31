@@ -1,2 +1,2 @@
 # Water-Quality-Monitoring-System-
-JOEL Roadshow (industrialwater Anomoly Detection and Quality Monitoring 
+JOEL Roadshow (industrial water Anomoly Detection and Quality Monitoring System)
